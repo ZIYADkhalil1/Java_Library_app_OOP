@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124930002815",
+    "project_id": "fcds-qa-hub",
+    "storage_bucket": "fcds-qa-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124930002815:android:85efb60efb912e9cea544a",
+        "android_client_info": {
+          "package_name": "com.example.fcdsqahub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124930002815-1rcl2u7se84mvnkj8c7oib6qjopqrhg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpIVfqrST7XZvfuFwlFwEkheAMDW5SIcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124930002815-1rcl2u7se84mvnkj8c7oib6qjopqrhg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/homenav"
+    android:title="New/Interested"
+    android:icon="@drawable/list"/>
+    <item android:id="@+id/data"
+        android:title="Departments"
+        android:icon="@drawable/deps"/>
+    <item android:id="@+id/health"
+        android:icon="@drawable/ic_baseline_contact_support_24"
+        android:title="Contact us"/>
+
+
+
+</menu>
